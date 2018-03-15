@@ -13,7 +13,7 @@ Same sub-tree will be created while storing the extracted regions.
 
 2. Specify the image type (image format)
 
-3.Specify the paddind (The extra portion around the bounding rectangle)
+3. Specify the padding (The extra portion around the bounding rectangle)
 
 4. Locate the folder containing xml files
 
