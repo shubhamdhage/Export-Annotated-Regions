@@ -19,6 +19,8 @@ Same sub-tree will be created while storing the extracted regions.
 
 5. If xml files are located in the same folder where original images are store then check the button "Same as Source Data Folder"
 
-6. Choose the directory where you want to store the annotated regions. (If you do not specify the store folder bydefault it wiil be stored on Desktop.)
+6. Choose the directory where you want to store the annotated regions. (If you do not specify the store folder bydefault it wiil create a foldernamed "Exported Annotations" on Desktop and store the extracted regions there.)
 
 7. Finnaly execute using Run button.
+
+8. The progress bar displays the progress so far.
